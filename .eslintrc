@@ -1,0 +1,6 @@
+{
+  "extends": "@case",
+  "rules": {
+    "no-magic-numbers": 0
+  }
+}
